@@ -26,7 +26,7 @@ public class CustomClassLoader extends ClassLoader{
 
     private byte[] getClassFromCustomPath(String name) {
 
-        // 细节略 
+        // 细节略
 
         return null;
     }
