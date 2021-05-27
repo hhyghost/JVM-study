@@ -25,7 +25,7 @@ public class ClassLoaderTest {
         // String使用的是引导类加载器
         ClassLoader stringClassloader = String.class.getClassLoader();
         System.out.println(stringClassloader);
-        
+
     }
 
 }
